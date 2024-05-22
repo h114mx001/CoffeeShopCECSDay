@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeShopCECSDay</string>
+    <string name="welcome_to_cecs_day_2024_coffee_shop">Welcome to CECS Day 2024 \n Coffee Shop!</string>
+    <string name="please_scan_your_card_to_continue">Please scan your card to continue</string>
+</resources>
